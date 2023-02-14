@@ -15,6 +15,7 @@ public class Addition {
 		
 	public static void main(String args[])
 	{
-	Addition.sum(10,50);//System.out.println("hii");
+	Addition.sum(10,50);
+	System.out.println("hii");
 	}		
 }
