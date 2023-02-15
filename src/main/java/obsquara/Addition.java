@@ -7,7 +7,7 @@ public class Addition {
 	public static int sum(int a,int b)
 	{ 
 	int sum=a+b;
-	System.out.println("sum="+sum);
+	//System.out.println("sum="+sum);
 			System.out.println("hii");
 	return sum ;
 		}
